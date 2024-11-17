@@ -1,0 +1,153 @@
+
+
+.top{
+
+    /* padding-inline: 30px; */
+    background-color: #E4E1F6;
+    /* padding-top: 20px; */
+    height: auto;
+}
+
+.top-head{
+    /* border: 1px solid red; */
+    padding-bottom: 20px;
+    padding-top: 15px;
+}
+
+.top h1{
+    text-align: center;
+    font-size: 41px;
+    color: #554A98;
+    font-family: Poppins;
+    /* margin-block: 30px; */
+}
+
+.top-width-flex{
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 1400px;
+    column-gap: 40px;
+   margin: 0 auto;
+    /* border: 1px solid red; */
+}
+
+
+.top-cont-1{
+
+    max-width: 680px;
+    /* border: 1px solid green; */
+    /* margin: 0 auto; */
+    padding-bottom: 30px;
+
+}
+
+.top-cont-1-1{
+    max-width: 680px;
+    /* border: 1px solid green; */
+}
+.top-cont-first-position{
+
+   max-width: 500px;
+   margin-block: 10px;
+   margin-inline: 20px;
+}
+
+.top-cont-first-h2{
+    width: 510px;
+    font-size: 24px;
+    /* border: 1px solid black; */
+    height: 50px;
+}
+
+.top-cont-first{
+
+    max-width: 680px;
+    border: 1px solid black;
+    border-radius: 8px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-top: 10px;
+    margin-top: -4px;
+
+    box-shadow: -0px 5px 5px #E4E1F6, /* Left shadow */
+    -0px 5px 5px #f1ebeb,  /* Right shadow */
+    0 5px 10px #f1ebeb;
+    
+}
+
+.chennai-flex-img{
+
+    /* border: 1px solid black; */
+    padding-top: 10px;
+}
+
+.top-cont-first{
+
+    display: flex;
+    /* justify-content: space-between; */
+}
+
+
+
+.chennai-flex{
+
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.top-cont-flex-h4{
+
+    font-size: 20px;
+    color: #554A98;
+    padding-block: 10px;
+}
+
+.view-flex{
+
+    display: flex;
+    justify-content: space-between;
+    margin-right: 40px;
+
+}
+
+.top-cont-flex-p{
+    font-size: 16px;
+    padding-block: 10px;
+    color: #7A6AD7;
+}
+
+.img-width{
+
+    margin-left: 20px;
+}
+
+.top-cont-1-1-img{
+    width: 100%;
+}
+
+.view-cont{
+
+    display: flex;
+    justify-content: center;
+    /* border: 1px solid black; */
+    align-self: center;
+    padding-block: 20px;
+}
+
+.view{
+
+    text-decoration: none;
+    /* border: 1px solid black; */
+    padding-inline: 50px;
+    padding-block: 10px;
+    border-radius: 8px;
+    background-color: #554A98;
+    color: white;
+    text-align: center;
+   
+}

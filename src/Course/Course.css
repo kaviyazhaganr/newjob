@@ -1,0 +1,123 @@
+
+.course{
+
+    padding-left: 50px;
+    background-color: #E4E1F6;
+}
+
+.course-head{
+
+    font-size: 30px;
+    color: #554A98;
+    font-family: Poppins;
+}
+
+.course-anchor-cont{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 20px;
+}
+
+.course-anchor{
+
+    text-decoration: none;
+    border-radius: 29px;
+    border: 1px solid black;
+    padding-inline: 20px;
+    font-size: 34px;
+    padding-block: 5px;
+    color: #554A98;
+    margin-block: 20px;
+    background-color: white;
+    
+}
+
+.course-cont-1{
+    display: flex;
+    max-width: 370px;
+    
+    justify-content: space-between;
+}
+.course-cont-2{
+    display: flex;
+    max-width: 370px;
+   
+    justify-content: space-between;
+}
+.course-cont-3{
+    display: flex;
+    max-width: 370px;
+    /* border: 1px solid green; */
+    justify-content: space-between;
+}
+
+.course-cont-4{
+    display: flex;
+    justify-content: space-between;
+}
+
+.course-cont-flex{
+
+    width: 430px;
+    border: 1px solid black;
+    line-height: 40px;
+    padding: 10px;
+    background-color: white;
+}
+
+.course-cont-head{
+    font-size: 24px;
+
+}
+
+.course-cont-p-1{
+
+    font-size: 19px;
+    color: #7A6AD7;
+}
+
+.course-cont-p-2{
+
+    font-size: 19px;
+    color: #554A98;
+}
+
+.course-cont-p-4-1{
+
+    color: #554A98;
+}
+
+.course-container{
+    display: flex ;
+    justify-content: space-between;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.div{
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    width: 96px;
+    height: 12px;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.course-width{
+    width: 52px;
+    height: 12px;
+    background-color: #554A98;
+    border: 1px solid black;
+    border-radius: 6px;
+}
+
+.course-width-circle{
+    width: 12px;
+    height:12px;
+    background-color: #B5BFFF;
+    border: 1px solid black;
+    border-radius: 6px;
+}

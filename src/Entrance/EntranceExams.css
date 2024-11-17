@@ -1,0 +1,64 @@
+
+.EntranceExams{
+    background-color: #E4E1F6;
+    font-family: Poppins;
+
+}
+
+
+
+.Entrance{
+
+    max-width: 1400px;
+    margin: 0 auto;
+    /* border: 1px solid black; */
+    padding-bottom: 60px;
+   
+    
+}
+
+.Entrance h1{
+
+    color: #554A98;
+    font-size: 49px;
+}
+
+.entrance-cont{
+    display: flex;
+    border: 1px solid black;
+    border-radius: 9px;
+    padding: 10px;
+    margin-block: 25px;
+}
+
+.entrance-cont-content{
+
+    /* border: 1px solid black; */
+    line-height: 70px;
+    margin-inline: 50px;
+}
+
+.entrance-cont-content h3{
+
+    font-size: 38px;
+    color: #554A98;
+}
+
+.entrance-cont-content p{
+
+    font-size: 23px;
+    line-height: 28px;
+    /* border: 1px solid black; */
+}
+
+.entrance-cont-content a{
+
+    text-decoration: none;
+    padding-inline: 30px;
+    border: 1px solid black;
+    padding-block: 7px;
+    background-color: #554A98;
+    color: white;
+    font-size: 22px;
+    border-radius: 9px;
+}

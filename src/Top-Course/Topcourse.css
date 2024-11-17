@@ -1,0 +1,63 @@
+.Topcourse{
+    padding-left: 50px;
+    background-color: #E4E1F6;
+}
+
+.Topcourse-head{
+
+    font-size: 30px;
+    color: #554A98;
+    font-family: Poppins;
+    margin-bottom: 0px;
+}
+
+.topcourse-a-1{
+
+    /* max-width: auto; */
+    /* height: auto; */
+    /* border-radius: 28px; */
+    /* border: 1px solid black; */
+    margin-top: 10px;
+    display: inline;
+    padding-block: 15px;
+
+}
+
+.topcourse-a-1-1{
+    
+    
+    font-size: 24px;
+    padding-inline: 12px;
+    padding-block: 8px;
+    border-radius: 28px;
+    border: 1px solid black;
+    background-color: white;
+    text-decoration: none;
+    margin-right: 70px;
+
+
+}
+.topcourse-a-1-2{
+    
+    margin-left: 10px;
+    /* border: 1px solid black; */
+    margin-top: 7px;
+  
+}
+.topcourse-a-1-2-img{
+  margin-bottom: -4px;
+}
+
+.topcourse-anchor{
+
+    margin-top: 50px;
+    color: #554A98;
+}
+
+.topcourse-anchor-1{
+
+    margin-top: 50px;
+    padding-bottom: 70px;
+    color: #554A98;
+   
+}
